@@ -3,6 +3,5 @@
 A new Flutter project.
 
 ## project demo: 
-
-<video src=  https://github.com/user-attachments/assets/3303f736-7941-4410-84fc-aabab6a789a5  controls width="600"></video>
+https://github.com/user-attachments/assets/3303f736-7941-4410-84fc-aabab6a789a5
 
